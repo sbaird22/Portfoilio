@@ -1,8 +1,7 @@
 const Footer = () => (
     <footer>
-        <a href="https://github.com/your-profile">GitHub</a>
-        <a href="https://linkedin.com/in/your-profile">LinkedIn</a>
-        <a href="https://stackoverflow.com/users/your-profile">Stack Overflow</a>
+        <a href="https://github.com/sbaird22">GitHub</a>
+        <a href="https://linkedin.com/in/your-ShaneBaird">LinkedIn</a>
     </footer>
 );  
 export default Footer;
