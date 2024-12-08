@@ -5,8 +5,7 @@ const Project = ({ title, image, appLink, repoLink }) => (
         <article>
             <h3>{title}</h3>
             <img src={image} alt={`${title} screenshot`} />
-            <p>
-            <a href={appLink} target="_blank" rel="noopener noreferrer">View App</a> |{' '}
+            <p>   
             <a href={repoLink} target="_blank" rel="noopener noreferrer">View Code</a>
             </p>
         </article>
