@@ -24,6 +24,8 @@ const Resume = () => {
                 <li>PostgreSQL</li>
                 <li>Git</li>
                 <li>Responsive Design</li>
+                <li>Testing (Jest)</li>
+                <li>Python</li>
             </ul>
     </section>
     );
