@@ -8,7 +8,7 @@ const Resume = () => {
             Below, you can find a link to download my resume and a list of my core proficiencies.
         </p>
         <a
-            href="https://drive.google.com/file/d/1619BLuhlAnmKPQDV2Mvx_MnRsxeAodzv/preview" 
+            href="https://drive.google.com/file/d/1JTf9KFSH8BbM9AK5F62SAr7jCnqXFtD5/view?usp=sharing" 
             target="_blank" // Opens in a new tab
             rel="noopener noreferrer" 
             className="resume-download-link"
