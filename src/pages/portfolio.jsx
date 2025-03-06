@@ -33,7 +33,7 @@ const projects = [
         repoLink: 'https://github.com/sbaird22/job-application' },
     {
         title: 'Rubber Ducky Debugging',
-        image: '/assets/images/ducky.png',
+        image: '/assets/images/rubberduck.png',
         repoLink: 'https://github.com/sbaird22/Rubber-Ducky',
     // Add more projects here
     },
