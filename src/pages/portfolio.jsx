@@ -31,7 +31,12 @@ const projects = [
         title: 'Job Tracker',
         image: '/assets/images/job.png',
         repoLink: 'https://github.com/sbaird22/job-application' },
+    {
+        title: 'Rubber Ducky Debugging',
+        image: '/assets/images/ducky.png',
+        repoLink: 'https://github.com/sbaird22/Rubber-Ducky',
     // Add more projects here
+    },
 ];
 
 return (
